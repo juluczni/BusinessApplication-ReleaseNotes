@@ -268,6 +268,13 @@ This topic is updated when features are added, or when a feature's release date 
 > |---------|------------|
 > | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)  | May 1   |
 
+### Feature descriptions updated
+
+> [!div class="mx-tableFixed"]
+> | Feature | Date updated |
+> |---------|------------|
+> | [Gateway improvements](data-integration/overview.md)                                                      | June 1   |
+
 ## Microsoft Stream
 
 ### Features removed from Release notes
