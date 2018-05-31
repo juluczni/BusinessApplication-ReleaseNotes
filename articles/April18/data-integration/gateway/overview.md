@@ -30,10 +30,7 @@ cloud data sources by using the newly added setting on the Manage Gateways page.
 
 *Setting that allows refresh of cloud source data sources*
 
-We added support for Single Sign-On that takes advantage of Kerberos when
-DirectQuery mode is used to connect to the following data sources from Power BI:
-SQL Server, Teradata, SAP HANA, SAP BW, (coming in April), and Impala (coming in
-April).
+We added support for Single Sign-On that takes advantage of Kerberos when DirectQuery mode is used to connect to the following data sources from Power BI: SQL Server, Teradata and SAP HANA.
 
 When a user interacts with a DirectQuery report in Power BI, each cross-filter,
 slice, sort, or report edit operation can cause queries to execute live against
