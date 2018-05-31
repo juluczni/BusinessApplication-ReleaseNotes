@@ -22,4 +22,5 @@ In a previous release, we introduced the ability to [seamlessly change your Sche
 
 To make the feature a bit more understandable to new users, these labels are changed, and dynamically describe the action more explicitly. For example, if you are on the daily board, upon right-clicking, the options will be "Switch to Hours Board" (previously "Zoom In") and "Switch to Weeks Board" (previously "Zoom Out").
 
-![Screenshot of the new labels in zoom functionality](media/label-change-zoom.png)
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the new labels in zoom functionality](media/label-change-zoom.png)
