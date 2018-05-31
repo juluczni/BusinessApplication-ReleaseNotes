@@ -14,10 +14,10 @@ ms.author: margoc
 audience: Admin
 
 ---
-#  Weighted Objectives
+#  Weighted Objectives (Public Preview)
 
 
 [!include[banner](../../../../includes/banner.md)]
 
 With weights for optimization objectives, organizations can better balance
-various business objectives to achieve the best optimization
+various business objectives to achieve the best optimization.
