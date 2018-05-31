@@ -66,7 +66,17 @@ This topic is updated when features are added, or when a feature's release date 
 > | [Display day of the week on hourly vertical schedule board](dynamics365-field-service/overview.md)                    | May 1   |
 > | [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md) | May 1   |
 > | [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)                                    | May 1   |
-
+> | [New interactions and options when booking on hourly schedule board](dynamics365-field-service/new-schedule-board-interactions.md)   | May 1 |
+> | [Styling change to buttons in panels](dynamics365-field-service/styling-change-buttons-panels.md)                       | May 1 |
+> | [Schedule board view icons](dynamics365-field-service/schedule-board-icons.md)                                          | May 1 |
+> | [Removed resource image from schedule board when the row height cuts off image](dynamics365-field-service/removed-resource-image.md) | May 1 |
+> | [Ignore proposed bookings enhancements](dynamics365-field-service/ignore-proposed-bookings.md)                          | May 1 |
+> | [New booking panel interactions](dynamics365-field-service/new-booking-panel-interactions.md)                           | May 1 |
+> | [Label change for zoom functionality](dynamics365-field-service/label-change-zoom.md)                                   | May 1 |
+> | [Removed redundant cancel options from mutliday boards](dynamics365-field-service/removed-redundant-cancel-option.md)   | May 1 |
+> | [Resource search bar style updates](dynamics365-field-service/resource-search-bar-styling.md)
+> | [Display notification on booking requirements grid when no results found](dynamics365-field-service/new-notifications-booking-requirements.md)  |  May 1  | 
+> | [Double-click timing](dynamics365-field-service/double-click-timing.md)                                                 | May 1 |
 ### Features removed from Release notes
 
 > [!div class="mx-tableFixed"]
@@ -90,8 +100,8 @@ This topic is updated when features are added, or when a feature's release date 
 > [!div class="mx-tableFixed"]
 > | Feature                                                 | Change                                         | Change date  |
 > |---------------------------------------------------------|------------------------------------------------|--------------|
-> | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | May 10 |
-> | Ceridian payroll integration is now available in the UK | Public Preview in June, not May                | May 10 |
+> | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | June 1 |
+> | Ceridian payroll integration is now available in the UK | Public Preview in June, not May                | June 1 |
 
 ### Features updated
 
